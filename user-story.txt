@@ -1,0 +1,113 @@
+User Stories
+
+As an LSP (Leapfrog Student Partner),
+I want to create a profile and share my knowledge and experiences with the tech community,
+So that I can contribute to the community, showcase my work, and connect with like-minded peers and mentors.
+
+Acceptance Criteria:
+
+Registration: I can register for an account on the LSP Blog Website using my email or social media accounts. 
+
+Profile Creation: After registration, I can create and customize my personal profile. I can upload a profile picture, provide a brief bio, and list my skills and areas of expertise.
+
+Blog Submission: I can submit blog posts, articles, tutorials, and project showcases directly from my profile. The submission process includes fields for the blog title, content, images, and relevant tags.
+
+Editing and Updating: I can edit and update my blog posts and profile information at any time. This allows me to keep my content and profile current.
+
+Visibility: My blog posts are visible to other LSPs and visitors on the platform. They can read, comment on, and upvote my posts.
+
+Batch Association: My profile is associated with the specific LSP batch I belong to, making it easy for others to identify my cohort.
+
+Interaction: I can engage with other LSPs by commenting on their blog posts, upvoting valuable content, and following their profiles.
+
+Profile Discoverability: My profile is discoverable through the LSP batch pages and the platform's search feature.
+
+Privacy Settings: I have control over the privacy settings of my profile and blog posts. I can choose to make my content public or restrict it to LSPs only.
+
+Skills Showcase: I can update my skills and experiences, showcasing my growth and development throughout my LSP journey.
+
+
+
+
+
+As a general user with access to the LSP Blog Website,
+I want to be able to view and comment on blog posts created by LSPs (Leapfrog Student Partners),
+So that I can engage with the content, share my thoughts, and contribute to discussions within the tech community.
+
+Acceptance Criteria:
+
+Homepage Access: I can access the LSP Blog Website's homepage where I can see a feed of the latest blog posts created by LSPs.
+
+Post Preview: Each blog post on the homepage is displayed with a title, a brief excerpt, the author's name, and the publication date.
+
+Read Full Post: I can click on a blog post to read the full content and access the comment section.
+
+Commenting: On the blog post page, there is a comment section where I can type and submit my comments.
+
+Comment Visibility: After submitting a comment, it is displayed below the blog post, and I can see comments from other users as well.
+
+Upvoting: I can upvote comments that I find valuable or insightful.
+
+Interaction: I can reply to other users' comments to engage in discussions related to the blog post.
+
+Anonymous Viewing: I can view blog posts and comments without the need for registration or login, but I must register or log in to comment.
+
+Profile Link: If I click on an author's name, it takes me to their profile where I can learn more about them and explore their other blog posts.
+
+Privacy: The blog post comments adhere to the privacy settings set by the author, and I can only comment if the author has allowed comments from general users or public visibility.
+
+Notification: If someone replies to my comments or upvotes my comments, I receive notifications to stay engaged with the community.
+
+
+
+
+
+As a super admin with unrestricted access to the website,
+I want to effectively manage and oversee all aspects of the platform,
+So that I can maintain the website's integrity, security, and functionality, and provide support to users and administrators as needed.
+
+Acceptance Criteria:
+
+Access Control: I have access to all areas and features of the website, including administrative tools, user profiles, content management, and system settings.
+
+User Management: I can create, edit, and delete user accounts, as well as assign roles and permissions to other users, including administrators.
+
+Content Management: I can review, edit, or remove any content on the website, such as blog posts, articles, comments, and user-generated content.
+
+Security Control: I have the authority to manage security settings, including password policies, authentication methods, and access restrictions.
+
+Analytics and Reporting: I can access and generate reports and analytics related to user activity, site performance, and other relevant data.
+
+Troubleshooting and Support: I can provide technical support to users and administrators, resolve issues, and troubleshoot any problems that may arise on the platform.
+
+System Configuration: I can configure and customize system settings, such as email notifications, site branding, and integration with third-party services.
+
+Data Backup and Recovery: I can initiate and manage data backups and recovery procedures to ensure data integrity and disaster recovery preparedness.
+
+Audit Trail: The system logs all administrative actions and changes made by the super admin, ensuring transparency and accountability.
+
+User Communication: I can send system-wide notifications or messages to all users or specific groups of users as needed.
+
+Access History: I can review access logs to track who has accessed the website and when helping to identify any unauthorized or suspicious activity.
+
+System Updates: I am responsible for overseeing system updates, ensuring that the website remains up-to-date with the latest software and security patches.
+
+Emergency Actions: In case of critical issues or security breaches, I can take immediate action to mitigate risks and secure the website.
+
+Feedback and Suggestions: I can gather feedback and suggestions from users and administrators to improve the website's functionality and user experience.
+
+Compliance and Regulations: I ensure that the website complies with relevant laws, regulations, and industry standards, taking appropriate actions to address any compliance issues.
+
+Training and Documentation: I can provide training and documentation for administrators and users on how to use the website effectively and securely.
+
+Collaboration with Other Admins: I can collaborate with other administrators to ensure a cohesive and coordinated approach to managing the website.
+
+Regular Audits: I perform regular audits of the website's security, performance, and user experience to identify areas for improvement.
+
+By having super admin access, I aim to maintain a well-functioning and secure website, ensuring that it meets the needs of both users and the organization.
+
+
+
+
+
+
